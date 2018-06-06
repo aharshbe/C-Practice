@@ -1,4 +1,3 @@
-// hello-cout.cpp by Bill Weinman <http://bw.org/>
 #include <iostream>
 using namespace std;
 
