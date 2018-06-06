@@ -1,5 +1,3 @@
-// variadic.c by Bill Weinman <http://bw.org/>
-// updated for C++EssT 2014-10-24
 #include <cstdio>
 #include <cstdarg>
 

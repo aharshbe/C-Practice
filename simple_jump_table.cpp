@@ -1,7 +1,3 @@
-// jump.cpp by Bill Weinman <http://bw.org/>
-// a simple jump table
-// updated for C++ EssT 2014-10-24
-
 #include <cstdio>
 using namespace std;
 

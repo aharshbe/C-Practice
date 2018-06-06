@@ -1,5 +1,3 @@
-// func-operator.cpp by Bill Weinman <http://bw.org/>
-// updated for C++EssT 2014-10-24
 #include <cstdio>
 using namespace std;
 
