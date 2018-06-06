@@ -21,13 +21,3 @@ int main( int argc, char ** argv ) {
     printf("Factorial Loop of %ld is %ld\n", n, factorial_loop(n));
     return 0;
 }
-
-
-unsigned long int factorial_loop( unsigned long int n ) {
-    for (unsigned long int val = n; n; val = (n - 1) * val, --n) {
-        if (n < 2) {
-            return val;
-        }
-    }
-    return 1;
-}
