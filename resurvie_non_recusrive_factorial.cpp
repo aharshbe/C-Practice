@@ -7,7 +7,6 @@ unsigned long int factorial( unsigned long int n ) {
 }
 
 unsigned long int factorial_loop( unsigned long int n ) {
-
     for (unsigned long int val = n; n; val = (n - 1) * val, --n)
         if (n < 2)
             return val;
